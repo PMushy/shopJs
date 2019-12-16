@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_PASS":"shop",
+        "JWT_KEY":"secret"
+    }
+}
+
